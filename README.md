@@ -23,7 +23,5 @@ This project involved designing and building a custom quadcopter drone from scra
 
 ## 📁 Folder Structure
 - `/code` – Arduino or ArduPilot configuration files
-- `/designs` – CAD files (SolidWorks)
-- `/images` – Build process and test flight photos
 - `README.md` – Project details
 
